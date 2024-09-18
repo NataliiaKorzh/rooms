@@ -1,0 +1,9 @@
+Cheapest Room: King Studio Suite - Non Smoking
+Cheapest Price: 90.0 USD
+Number of Guests: 4
+
+Total Prices (Net price + Taxes) for all rooms:
+King Studio Suite - Hearing Accessible/Non-Smoking: 131.76 USD
+King Studio Suite - Non Smoking: 108.71000000000001 USD
+King Room - Mobility/Hearing Accessible - Non-Smoking: 133.76 USD
+Queen Suite with Two Queen Beds - Non-Smoking: 130.76 USD
